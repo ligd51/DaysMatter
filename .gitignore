@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+
+# Local SDK config
+local.properties
+
+backup/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kotlin
+*.class
+kotlinc.xml
